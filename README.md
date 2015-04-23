@@ -1,4 +1,4 @@
 # RpTestRepo
 <<<<<<< HEAD
-This is a test repro to play around with GitHub. This is the read me text of Test Branch.
+This is a test repro to play around with GitHub. This is the read me text of Test Branch. now edited in TB1
 =======
